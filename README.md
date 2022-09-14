@@ -11,5 +11,5 @@ git push -u origin master
  
 # Push an existing repository from the command line
  
-git remote add origin https://github.com/c0ldlimit/vimcolors.git
+git remote add origin https://github.com/cableco/cabelco_customizations.git
 git push -u origin master
